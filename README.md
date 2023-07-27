@@ -28,7 +28,7 @@
 * [Reg Plot](https://github.com/OG-Matcha/Learning_Seaborn/blob/main/Regression%20Plot/L18%20Reg%20Plot/L18.ipynb)
 
 ## Matrix
-* [Heat Map](https://github.com/OG-Matcha/Learning_Seaborn/tree/main/Matrix/L19%20Heatmap)
+* [Heat Map](https://github.com/OG-Matcha/Learning_Seaborn/blob/main/Matrix/L19%20Heat%20Map/L19.ipynb)
 * [Cluster Map](https://github.com/OG-Matcha/Learning_Seaborn/blob/main/Matrix/L20%20Cluster%20Map/L20.ipynb)
 
 ## Multi-Plot Grids
